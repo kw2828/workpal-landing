@@ -179,7 +179,7 @@ input:focus {
 
 @media (min-width: 100px) and (max-width: 900px) {
   html, body, #___gatsby {
-    height: 150%;
+    height: 100%;
     width: 100%;
     min-width: fit-content;
     background: url('../images/hero_image_mobile.png');
