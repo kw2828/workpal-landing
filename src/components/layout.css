@@ -271,6 +271,7 @@ input:focus {
     height: 40px;
     border-radius: 10px 0px 0px 10px; /* top left, top right, bottom right, bottom left */
     padding-left: 20px;
+    padding-right: 10px;
     font-size: 12px;
     margin-top: 15px;
     background: none;
